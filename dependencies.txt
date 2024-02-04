@@ -1,0 +1,2 @@
+dependencies:
+  connectivity: ^3.0.6
